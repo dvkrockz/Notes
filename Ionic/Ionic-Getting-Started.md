@@ -1,4 +1,4 @@
-Ionic
+Ionic: Getting Started
 
 What is Ionic ?
 > Framework to create hybrid web applications including PWA and desktop app with the help of electron.
@@ -23,10 +23,13 @@ What is Ionic ?
 6. Type the command - `ionic serve`  which starts the application.
 
 **Ionic history**:
-Ionic 1 - 2013 - Create mobile apps with Angular js
-Ionic 2 - 2016 - Create mobile appls with Angular2 (A2 components)
-Ionic 3 - 2017 - Create mobile apps and PWA with Angular 4+
-Ionic 4 - 2019 - Create mobile apps and PWA with Javascript - based on web components - independent of framework. Build web apps as well as mobile apps.
+- Ionic 1 - 2013 - Create mobile apps with Angular js
+- Ionic 2 - 2016 - Create mobile appls with Angular2 (A2 components)
+- Ionic 3 - 2017 - Create mobile apps and PWA with Angular 4+
+- Ionic 4 - 2019 - Create mobile apps and PWA with Javascript - based on web components - independent of framework. Build web apps as well as mobile apps.
 
 What is web view?
 > Navtive app which only renders a webView widget that loads your web app.
+
+
+
